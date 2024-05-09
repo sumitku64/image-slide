@@ -1,1 +1,1 @@
-# image-slide
+# image-slide/slideShow.html
